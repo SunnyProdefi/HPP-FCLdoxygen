@@ -1,0 +1,14 @@
+<map id="hpp::fcl::ComputeCollision" name="hpp::fcl::ComputeCollision">
+<area shape="rect" id="node1" title="This class reduces the cost of identifying the geometry pair. This is mostly useful for repeated shap..." alt="" coords="1523,84,1716,111"/>
+<area shape="rect" id="node2" href="$classhpp_1_1fcl_1_1CollisionGeometry.html" title="The geometry for the object for collision or distance computation." alt="" coords="243,95,441,121"/>
+<area shape="rect" id="node7" href="$classhpp_1_1fcl_1_1ShapeBase.html" title="Base class for all basic geometric shapes." alt="" coords="512,153,663,180"/>
+<area shape="rect" id="node3" href="$classhpp_1_1fcl_1_1AABB.html" title="A class describing the AABB collision structure, which is a box in 3D space determined by two diagona..." alt="" coords="5,95,120,121"/>
+<area shape="rect" id="node4" href="$structhpp_1_1fcl_1_1GJKSolver.html" title="collision and distance solver based on GJK algorithm implemented in fcl (rewritten the code from the ..." alt="" coords="1287,139,1429,165"/>
+<area shape="rect" id="node5" href="$structhpp_1_1fcl_1_1details_1_1MinkowskiDiff.html" title="Minkowski difference class of two shapes." alt="" coords="787,133,917,174"/>
+<area shape="rect" id="node8" href="$structhpp_1_1fcl_1_1details_1_1GJK.html" title="class for GJK algorithm" alt="" coords="1055,177,1209,204"/>
+<area shape="rect" id="node6" href="$structhpp_1_1fcl_1_1details_1_1MinkowskiDiff_1_1ShapeData.html" title=" " alt="" coords="491,87,684,129"/>
+<area shape="rect" id="node9" href="$structhpp_1_1fcl_1_1details_1_1GJK_1_1Simplex.html" title="A simplex is a set of up to 4 vertices. Its rank is the number of vertices it contains." alt="" coords="787,202,917,243"/>
+<area shape="rect" id="node11" href="$structhpp_1_1fcl_1_1details_1_1EPA.html" title="class for EPA algorithm" alt="" coords="1055,241,1209,268"/>
+<area shape="rect" id="node10" href="$structhpp_1_1fcl_1_1details_1_1GJK_1_1SimplexV.html" title=" " alt="" coords="522,205,653,246"/>
+<area shape="rect" id="node12" href="$structhpp_1_1fcl_1_1details_1_1EPA_1_1SimplexFace.html" title=" " alt="" coords="783,335,921,377"/>
+</map>

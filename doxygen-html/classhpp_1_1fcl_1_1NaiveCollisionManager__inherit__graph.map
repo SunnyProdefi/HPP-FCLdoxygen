@@ -1,0 +1,4 @@
+<map id="hpp::fcl::NaiveCollisionManager" name="hpp::fcl::NaiveCollisionManager">
+<area shape="rect" id="node1" title="Brute force N&#45;body collision manager." alt="" coords="25,95,197,136"/>
+<area shape="rect" id="node2" href="$classhpp_1_1fcl_1_1BroadPhaseCollisionManager.html" title="Base class for broad phase collision. It helps to accelerate the collision/distance between N objects..." alt="" coords="5,5,216,47"/>
+</map>

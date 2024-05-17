@@ -1,0 +1,4 @@
+<map id="hpp::fcl::IntervalTreeCollisionManager::SAPInterval" name="hpp::fcl::IntervalTreeCollisionManager::SAPInterval">
+<area shape="rect" id="node1" title="Extention interval tree&#39;s interval to SAP interval, adding more information." alt="" coords="5,95,216,136"/>
+<area shape="rect" id="node2" href="$structhpp_1_1fcl_1_1detail_1_1SimpleInterval.html" title="Interval trees implemented using red&#45;black&#45;trees as described in the book Introduction_To_Algorithms_..." alt="" coords="27,5,195,47"/>
+</map>

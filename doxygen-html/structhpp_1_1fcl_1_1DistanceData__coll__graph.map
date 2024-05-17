@@ -1,0 +1,10 @@
+<map id="hpp::fcl::DistanceData" name="hpp::fcl::DistanceData">
+<area shape="rect" id="node1" title="Distance data stores the distance request and the result given by distance algorithm." alt="" coords="119,288,285,315"/>
+<area shape="rect" id="node2" href="$structhpp_1_1fcl_1_1DistanceRequest.html" title="request to the distance computation" alt="" coords="5,199,193,225"/>
+<area shape="rect" id="node3" href="$structhpp_1_1fcl_1_1QueryRequest.html" title="base class for all query requests" alt="" coords="14,95,185,121"/>
+<area shape="rect" id="node4" href="$structhpp_1_1fcl_1_1DistanceResult.html" title="distance result" alt="" coords="218,199,394,225"/>
+<area shape="rect" id="node5" href="$structhpp_1_1fcl_1_1QueryResult.html" title="base class for all query results" alt="" coords="217,95,376,121"/>
+<area shape="rect" id="node6" href="$structhpp_1_1fcl_1_1CPUTimes.html" title=" " alt="" coords="225,5,369,32"/>
+<area shape="rect" id="node7" href="$classhpp_1_1fcl_1_1CollisionGeometry.html" title="The geometry for the object for collision or distance computation." alt="" coords="400,95,599,121"/>
+<area shape="rect" id="node8" href="$classhpp_1_1fcl_1_1AABB.html" title="A class describing the AABB collision structure, which is a box in 3D space determined by two diagona..." alt="" coords="442,5,557,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="boost::serialization::internal::OcTreeAccessor" name="boost::serialization::internal::OcTreeAccessor">
+<area shape="rect" id="node1" title=" " alt="" coords="121,275,312,316"/>
+<area shape="rect" id="node2" href="$classhpp_1_1fcl_1_1OcTree.html" title="Octree is one type of collision geometry which can encode uncertainty information in the sensor data." alt="" coords="155,199,278,225"/>
+<area shape="rect" id="node3" href="$classhpp_1_1fcl_1_1CollisionGeometry.html" title="The geometry for the object for collision or distance computation." alt="" coords="5,102,204,129"/>
+<area shape="rect" id="node4" href="$classhpp_1_1fcl_1_1AABB.html" title="A class describing the AABB collision structure, which is a box in 3D space determined by two diagona..." alt="" coords="47,5,162,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="229,95,431,136"/>
+</map>

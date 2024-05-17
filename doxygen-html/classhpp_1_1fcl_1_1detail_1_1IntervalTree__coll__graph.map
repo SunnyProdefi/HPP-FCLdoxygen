@@ -1,0 +1,5 @@
+<map id="hpp::fcl::detail::IntervalTree" name="hpp::fcl::detail::IntervalTree">
+<area shape="rect" id="node1" title="Interval tree." alt="" coords="5,231,205,257"/>
+<area shape="rect" id="node2" href="$classhpp_1_1fcl_1_1detail_1_1IntervalTreeNode.html" title="The node for interval tree." alt="" coords="19,111,192,152"/>
+<area shape="rect" id="node3" href="$structhpp_1_1fcl_1_1detail_1_1SimpleInterval.html" title="Interval trees implemented using red&#45;black&#45;trees as described in the book Introduction_To_Algorithms_..." alt="" coords="21,5,189,47"/>
+</map>

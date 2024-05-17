@@ -1,0 +1,6 @@
+<map id="boost::serialization::internal::ConvexBaseAccessor" name="boost::serialization::internal::ConvexBaseAccessor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,232,271"/>
+<area shape="rect" id="node2" href="$classhpp_1_1fcl_1_1ConvexBase.html" title="Base for convex polytope." alt="" coords="39,155,198,181"/>
+<area shape="rect" id="node3" href="$classhpp_1_1fcl_1_1ShapeBase.html" title="Base class for all basic geometric shapes." alt="" coords="43,80,194,107"/>
+<area shape="rect" id="node4" href="$classhpp_1_1fcl_1_1CollisionGeometry.html" title="The geometry for the object for collision or distance computation." alt="" coords="19,5,218,32"/>
+</map>

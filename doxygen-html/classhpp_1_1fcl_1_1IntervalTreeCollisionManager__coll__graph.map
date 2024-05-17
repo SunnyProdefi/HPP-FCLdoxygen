@@ -1,0 +1,7 @@
+<map id="hpp::fcl::IntervalTreeCollisionManager" name="hpp::fcl::IntervalTreeCollisionManager">
+<area shape="rect" id="node1" title="Collision manager based on interval tree." alt="" coords="27,335,237,376"/>
+<area shape="rect" id="node2" href="$classhpp_1_1fcl_1_1BroadPhaseCollisionManager.html" title="Base class for broad phase collision. It helps to accelerate the collision/distance between N objects..." alt="" coords="5,231,216,272"/>
+<area shape="rect" id="node3" href="$classhpp_1_1fcl_1_1detail_1_1IntervalTree.html" title="Interval tree." alt="" coords="240,238,440,265"/>
+<area shape="rect" id="node4" href="$classhpp_1_1fcl_1_1detail_1_1IntervalTreeNode.html" title="The node for interval tree." alt="" coords="253,111,427,152"/>
+<area shape="rect" id="node5" href="$structhpp_1_1fcl_1_1detail_1_1SimpleInterval.html" title="Interval trees implemented using red&#45;black&#45;trees as described in the book Introduction_To_Algorithms_..." alt="" coords="256,5,424,47"/>
+</map>

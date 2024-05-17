@@ -1,0 +1,4 @@
+<map id="hpp::fcl::CollisionCallBackCollect" name="hpp::fcl::CollisionCallBackCollect">
+<area shape="rect" id="node1" title="Collision callback to collect collision pairs potentially in contacts." alt="" coords="21,80,212,121"/>
+<area shape="rect" id="node2" href="$structhpp_1_1fcl_1_1CollisionCallBackBase.html" title="Base callback class for collision queries. This class can be supersed by child classes to provide des..." alt="" coords="5,5,228,32"/>
+</map>

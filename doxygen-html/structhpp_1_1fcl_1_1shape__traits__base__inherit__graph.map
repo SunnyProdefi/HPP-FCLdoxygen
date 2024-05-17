@@ -1,0 +1,13 @@
+<map id="hpp::fcl::shape_traits_base" name="hpp::fcl::shape_traits_base">
+<area shape="rect" id="node1" title=" " alt="" coords="5,307,201,334"/>
+<area shape="rect" id="node2" href="$structhpp_1_1fcl_1_1shape__traits.html" title=" " alt="" coords="249,5,408,47"/>
+<area shape="rect" id="node3" href="$structhpp_1_1fcl_1_1shape__traits_3_01Box_01_4.html" title=" " alt="" coords="249,71,408,112"/>
+<area shape="rect" id="node4" href="$structhpp_1_1fcl_1_1shape__traits_3_01Capsule_01_4.html" title=" " alt="" coords="249,136,408,177"/>
+<area shape="rect" id="node5" href="$structhpp_1_1fcl_1_1shape__traits_3_01Cone_01_4.html" title=" " alt="" coords="249,201,408,243"/>
+<area shape="rect" id="node6" href="$structhpp_1_1fcl_1_1shape__traits_3_01ConvexBase_01_4.html" title=" " alt="" coords="249,267,408,308"/>
+<area shape="rect" id="node7" href="$structhpp_1_1fcl_1_1shape__traits_3_01Cylinder_01_4.html" title=" " alt="" coords="249,332,408,373"/>
+<area shape="rect" id="node8" href="$structhpp_1_1fcl_1_1shape__traits_3_01Ellipsoid_01_4.html" title=" " alt="" coords="249,397,408,439"/>
+<area shape="rect" id="node9" href="$structhpp_1_1fcl_1_1shape__traits_3_01Halfspace_01_4.html" title=" " alt="" coords="249,463,408,504"/>
+<area shape="rect" id="node10" href="$structhpp_1_1fcl_1_1shape__traits_3_01Sphere_01_4.html" title=" " alt="" coords="249,528,408,569"/>
+<area shape="rect" id="node11" href="$structhpp_1_1fcl_1_1shape__traits_3_01TriangleP_01_4.html" title=" " alt="" coords="249,593,408,635"/>
+</map>
